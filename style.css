@@ -1,0 +1,36 @@
+
+body{
+    background-color:linear-gradient rgb(240, 241, 241);
+    color:rgb(115, 58, 200);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     
+    
+}
+
+body{
+    text-align: justify;
+}
+p{
+    color: rgb(245, 140, 128);
+}
+
+hi{
+    color:rgb(230, 168, 235)
+}
+
+.TITULO.WEB {
+    color: rgb(171, 198, 249);
+    font-size:x-large
+    text-ailgn: center;
+    
+    
+}
+
+img{
+    width: 100 px ;
+}
+
+.max-copy{
+    width: 400 px;
+}
+
